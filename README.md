@@ -1,6 +1,6 @@
 <h3 align="center">Hey, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/></h3>
 <p align="center">Welcome to my GitHub page!<br>
-    I'm Ihor, 20 year old student from <a href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank"><img         src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/ukraine.svg" width="15"/></a><b> Kharkiv, Ukraine</b>.</p>
+    I'm Ihor, 21 year old student from <a href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank"><img         src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/ukraine.svg" width="15"/></a><b> Kharkiv, Ukraine</b>.</p>
 <p align="center">
     <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/ukraine.svg" width="15"/></a><b> Ukrainian </b>— Expert - National<br>
     <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/united-kingdom.svg" width="15"/></a><b> English </b>— B1 - Second main<br>
