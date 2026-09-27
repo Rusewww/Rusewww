@@ -1,24 +1,33 @@
-<h3 align="center">Hey, nice to see you!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="36"/></h3>
-<p align="center">Welcome to my GitHub page!<br>
-    I'm Ihor, 23 year old from <a href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank"><img         src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/ukraine.svg" width="15"/></a><b> Kharkiv, Ukraine</b>.</p>
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/ukraine.svg" width="15"/></a><b> Ukrainian </b>— Expert - National<br>
-    <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/united-kingdom.svg" width="15"/></a><b> English </b>— B1 - Second main<br>
-</p>
-<h3 align="center">Social networks:</h3>
-<p align="center">
-    <a href="https://t.me/Rusewww" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/Telegram_logo.svg" width="36"/></a>
-   <a href="https://discordapp.com/users/31515951738414694" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/discord.svg" width="36"/></a>
-    <a href="https://steamcommunity.com/id/rusewww_elite/" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/Steam_icon_logo.svg" width="36"/></a>
-    <a href="http://instagram.com/_rusewww_" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/instagram.svg" width="36"/></a>
-    <a href="https://www.linkedin.com/in/ihor-zozulia-a20756222/" target="_blank"><img                                           src="https://raw.githubusercontent.com/Rusewww/Rusewww/fad7cab0fa6c996aea374d951aa0264b28d8bdff/Images/linkedin.svg" width="36"/></a>
-</p>
-</p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### Hi, I'm Ihor 👋
 
-<p align="center">
-    <img alt="github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-flat&logo=github&logoColor=white" />
-    <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-flat&logo=gitlab&logoColor=white" />
-    
-</p>
+Full-Stack Developer (TypeScript · React · Node.js) based in the Stuttgart region, Germany.
+I build tools that remove routine work — with plain code, and with AI where it really helps.
+
+🔎 Open to on-site and hybrid roles in Stuttgart, Karlsruhe, Mannheim, Frankfurt and Munich.
+
+#### Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Check-in Calculator — Chrome extension](https://github.com/Rusewww/check-in_calculator_chrome_extension) | When does online check-in open for my flight? Published in the [Chrome Web Store](https://chromewebstore.google.com/detail/check-in-calculator/oifiigbmkgoojkfdjbkpknkgemgcgeog) | JavaScript, Vite, Vitest |
+| [Check-in Calculator — website](https://github.com/Rusewww/check-in_calculator) | The same calculator as a web page · [live](https://rusewww.github.io/check-in_calculator/) | JavaScript, Vite, GitHub Pages |
+| [passbot](https://github.com/Rusewww/slack_passbot) | Slack bot that reads passport MRZ with local OCR and check-digit repair | TypeScript, Python, OpenCV, Tesseract |
+| [Prompt Builder](https://github.com/Rusewww/Prompt-Builder) | My MSc thesis project: a studio for building, testing and improving LLM prompts | React, FastAPI, SQLite, Gemini API |
+
+#### At work
+
+At mono (Ukrainian digital bank) I built internal tools for the service team: a browser extension for the work systems (available to ~400 colleagues), AI assistants in Slack (Claude, Gemini API), and the first versions of Check-in Calculator and passbot. The internal code is under NDA; the repos above are my public re-implementations.
+
+#### Tech
+
+**Frontend:** React · TypeScript · JavaScript · HTML/CSS · Vite  
+**Backend:** Node.js · Python · FastAPI · SQL (PostgreSQL, MySQL, SQLite)  
+**AI:** LLM APIs (Claude, Gemini) · prompt engineering · OCR (Tesseract, OpenCV)  
+**Quality:** Vitest · ESLint · Prettier · GitHub Actions  
+**Also:** C#/.NET · C
+
+#### Now
+
+🇩🇪 Learning German (B1) · 🎓 MSc in Computer Engineering (2026), thesis on prompt-engineering patterns → [Prompt Builder](https://github.com/Rusewww/Prompt-Builder)
+
+📫 [LinkedIn](https://www.linkedin.com/in/ihor-zozulia-rusewww/) · ihor.zozulia.de@gmail.com
