@@ -3,8 +3,6 @@
 Full-Stack Developer (TypeScript · React · Node.js) based in the Stuttgart region, Germany.
 I build tools that remove routine work — with plain code, and with AI where it really helps.
 
-🔎 Open to on-site and hybrid roles in Stuttgart, Karlsruhe, Mannheim, Frankfurt and Munich.
-
 #### Featured projects
 
 | Project | What it does | Stack |
